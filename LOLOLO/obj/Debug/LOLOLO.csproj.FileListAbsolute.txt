@@ -1,0 +1,18 @@
+c:\users\user\documents\visual studio 2015\Projects\LOLOLO\LOLOLO\bin\Debug\LOLOLO.exe.config
+c:\users\user\documents\visual studio 2015\Projects\LOLOLO\LOLOLO\bin\Debug\LOLOLO.exe
+c:\users\user\documents\visual studio 2015\Projects\LOLOLO\LOLOLO\bin\Debug\LOLOLO.pdb
+c:\users\user\documents\visual studio 2015\Projects\LOLOLO\LOLOLO\obj\Debug\LOLOLO.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\LOLOLO\LOLOLO\obj\Debug\LOLOLO.move_step.resources
+c:\users\user\documents\visual studio 2015\Projects\LOLOLO\LOLOLO\obj\Debug\LOLOLO.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\LOLOLO\LOLOLO\obj\Debug\LOLOLO.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\LOLOLO\LOLOLO\obj\Debug\LOLOLO.exe
+c:\users\user\documents\visual studio 2015\Projects\LOLOLO\LOLOLO\obj\Debug\LOLOLO.pdb
+C:\Users\Administrator\Desktop\vs2015\Projects\LOLOLO\LOLOLO\bin\Debug\LOLOLO.exe.config
+C:\Users\Administrator\Desktop\vs2015\Projects\LOLOLO\LOLOLO\bin\Debug\LOLOLO.exe
+C:\Users\Administrator\Desktop\vs2015\Projects\LOLOLO\LOLOLO\bin\Debug\LOLOLO.pdb
+C:\Users\Administrator\Desktop\vs2015\Projects\LOLOLO\LOLOLO\obj\Debug\LOLOLO.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\vs2015\Projects\LOLOLO\LOLOLO\obj\Debug\LOLOLO.move_step.resources
+C:\Users\Administrator\Desktop\vs2015\Projects\LOLOLO\LOLOLO\obj\Debug\LOLOLO.Properties.Resources.resources
+C:\Users\Administrator\Desktop\vs2015\Projects\LOLOLO\LOLOLO\obj\Debug\LOLOLO.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\vs2015\Projects\LOLOLO\LOLOLO\obj\Debug\LOLOLO.exe
+C:\Users\Administrator\Desktop\vs2015\Projects\LOLOLO\LOLOLO\obj\Debug\LOLOLO.pdb
